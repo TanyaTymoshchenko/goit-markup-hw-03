@@ -166,7 +166,7 @@ main {
     letter-spacing: 0.02em;
     text-align: center;
     max-width: 496px;
-    margin: 0 auto 48px;
+    margin-bottom: 8px;
 }
 /* benefits */
 .benefits_list {
